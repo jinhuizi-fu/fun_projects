@@ -4,4 +4,4 @@ Storing fun projects for online data analytics.
 
 ### 1. Airbnb Review Analysis - in Python
 
-### 2.
+### 2.Spotify analysis - in Python
