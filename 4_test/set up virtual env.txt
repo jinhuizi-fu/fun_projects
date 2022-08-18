@@ -1,0 +1,2 @@
+1. in terminal, navigate to the project folder
+2. run (for example) $ pipenv install pandas 
