@@ -1,2 +1,4 @@
 1. in terminal, navigate to the project folder
 2. run (for example) $ pipenv install pandas 
+3. run $ pipenv shell
+4. run $ pipenv run python -m ipykernel install --user --name=my_env --display-name=my_env
